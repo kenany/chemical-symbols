@@ -1,5 +1,7 @@
 # chemical-symbols
 
+[![Build Status](https://img.shields.io/travis/KenanY/chemical-symbols.svg)](https://travis-ci.org/KenanY/chemical-symbols)
+
 Symbols of the chemical elements.
 
 ## Example
