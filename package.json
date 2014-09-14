@@ -1,0 +1,26 @@
+{
+  "name": "chemical-symbols",
+  "version": "0.0.0",
+  "description": "Symbols of the chemical elements",
+  "keywords": [
+    "chemistry"
+  ],
+  "repository": "KenanY/chemical-symbols",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "devDependencies": {
+    "lodash.isarray": "^2.4.1",
+    "tape": "^2.14.0"
+  }
+}
