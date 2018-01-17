@@ -1,6 +1,7 @@
 # chemical-symbols
 
 [![Build Status](https://img.shields.io/travis/KenanY/chemical-symbols.svg)](https://travis-ci.org/KenanY/chemical-symbols)
+[![npm version](https://img.shields.io/npm/v/chemical-symbols.svg?colorB=4c1)](https://www.npmjs.com/package/chemical-symbols)
 
 Symbols of the chemical elements.
 
