@@ -111,10 +111,10 @@ module.exports = [
   'Ds',
   'Rg',
   'Cn',
-  'Uut',
+  'Nh',
   'Fl',
-  'Uup',
+  'Mc',
   'Lv',
-  'Uus',
-  'Uuo'
+  'Ts',
+  'Og'
 ];
