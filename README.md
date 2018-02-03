@@ -15,8 +15,8 @@ var symbols = require('chemical-symbols');
 // =>  'Li',
 // =>  ...
 // =>  'Lv',
-// =>  'Uus',
-// =>  'Uuo'
+// =>  'Ts',
+// =>  'Og'
 // =>]
 ```
 
