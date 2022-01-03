@@ -7,7 +7,7 @@
   ],
   "repository": "KenanY/chemical-symbols",
   "license": "MIT",
-  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
   "files": [
     "index.js",
@@ -23,7 +23,6 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "@kenan/renovate-config": "^1.5.1",
     "tape": "^5.3.2"
   }
 }

@@ -1,5 +1,8 @@
-var symbols = require('../');
-var test = require('tape');
+'use strict';
+
+const test = require('tape');
+
+const symbols = require('../');
 
 test('exports an array', function(t) {
   t.plan(1);

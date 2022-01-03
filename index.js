@@ -1,3 +1,6 @@
+'use strict';
+
+/** @type {string[]} */
 module.exports = [
   'H',
   'He',
