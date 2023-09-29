@@ -5,7 +5,7 @@ Symbols of the chemical elements.
 ## Example
 
 ``` javascript
-var symbols = require('chemical-symbols');
+const symbols = require('chemical-symbols');
 // =>[
 // =>  'H',
 // =>  'He',
@@ -26,7 +26,7 @@ $ npm install chemical-symbols
 ## API
 
 ``` javascript
-var symbols = require('chemical-symbols');
+const symbols = require('chemical-symbols');
 ```
 
 ### `symbols`
